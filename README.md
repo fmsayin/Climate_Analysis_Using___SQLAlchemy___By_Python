@@ -46,5 +46,5 @@ Climate analysis and data exploration on new weather tables.
 * Function calculates min, avg, and max temperatures for trip using the matching dates from the previous year (i.e. use "2017-     01-01" if trip start date was "2018-01-01")
 * Plotted the min, avg, and max temperature from previous query as a bar chart.
 
-     Used the average temperature as the bar height.
-     Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
+     * Used the average temperature as the bar height.
+     * Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
