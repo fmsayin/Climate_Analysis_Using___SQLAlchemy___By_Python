@@ -1,6 +1,7 @@
 ### Climate analysis using SQLAlchemy & Flask
 
-### Technology stack: 
+### Tools Used:
+
      Python, SQLAlchemy ORM, SQLite, Pandas, Matplotlib, Flask (JSON API endpoints)
 
 ### Data Preparation
